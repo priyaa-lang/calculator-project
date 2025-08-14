@@ -44,7 +44,7 @@ This project includes two versions of a calculator:
 ## 👩‍💻 Author
 
 **Krishna Priyaa.M**  
-BCom undergraduate | Front-end Developer | Passionate about accessible tech
+Front-end Developer | BCom undergraduate | Passionate about accessible tech
 
 ---
 
